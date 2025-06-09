@@ -1,5 +1,5 @@
--- Nama		: MUSTIATI
--- NIM		: 23241097
+-- Nama		: ERNA WATI
+-- NIM		: 23241057
 -- Kelas	: PTI 4/B 
 
 -- TUGAS MODUL (4) PART (2)
